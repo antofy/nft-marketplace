@@ -23,7 +23,7 @@ The active marketplace can be set by the `x-holaplex-subdomain` request header. 
 
 | Environment Variable | Description | Production | Development |
 | ----------- | ----------- | -------- | ------- |
-| HOSTNAME      | The hostname of the proxy. | holaplex.market | localhost |
+| HOSTNAME      | The hostname of the proxy. | name.market | localhost |
 | PORT   | The listening port of the proxy | PORT | 8081 |
 | WEB_PORT | The port of the web server. | 3000 | 8080 |
 | WEB_HOST | The host of the web server. | PROXY_HOST | host.docker.internal |
