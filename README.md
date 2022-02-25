@@ -1,6 +1,6 @@
 # Marketplace
 
-No-code Solana NFT marketplaces powered by Holaplex.
+No-code NFT marketplaces powered.
 
 Tech Stack:
 
