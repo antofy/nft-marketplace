@@ -18,7 +18,7 @@ $ npm run dev
 
 ### Proxy
 
-The active marketplace can be set by starting the ngnix with [default.conf](/main/templates/default.conf.template) will set the subdomain header based on the current hostname context of the request. The nginx conf relies on envstub provided by the official [nginx image](https://hub.docker.com/_/nginx) on Dockerhub.
+The active marketplace can be set by starting the ngnix with [default.conf](/templates/default.conf.template) will set the subdomain header based on the current hostname context of the request. The nginx conf relies on envstub provided by the official [nginx image](https://hub.docker.com/_/nginx) on Dockerhub.
 
 
 | Environment Variable | Description | Production | Development |
